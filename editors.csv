@@ -1,0 +1,40 @@
+"Name
+","Description
+","Free software
+"
+"Aquamacs Emacs
+","A distribution of GNU Emacs heavily modified to behave like a Mac program.
+","Yes
+"
+"Cream
+","A configuration of Vim.
+","Yes
+"
+"Elvis
+","A vi/ex clone with additional commands and features.
+","Yes
+"
+"Extensible Versatile Editor (EVE)
+","Default under OpenVMS.
+","?
+"
+"GNU Emacs/XEmacs
+","Two long-existing forks of the popular Emacs programmer's editor. Emacs and vi are the dominant text editors on Unix-like operating systems, and have inspired the editor wars.
+","Yes
+"
+"Language-Sensitive Editor (LSE)
+","Programmer's Editor for OpenVMS implemented using TPU.
+","Yes
+"
+"Textadept
+","A modular, cross-platform editor written in C and Lua, using Scintilla.[1]
+","Yes
+"
+"vile (vi like Emacs)
+","A vi work-alike which retains the vi command-set while adding new features: multiple windows and buffers, infinite undo, colorization, scriptable expansion capabilities, etc.
+","Yes
+"
+"vim
+","A clone based on the ideas of the vi editor and designed for use both from a command line interface and in a graphical user interface.
+","Yes
+"
