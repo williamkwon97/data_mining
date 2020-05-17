@@ -4,11 +4,11 @@ from bs4 import BeautifulSoup
 import csv
 
 html = urlopen(
-    "https://en.wikipedia.org/wiki/List_of_text_editors")
+    "https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm")
 bsObj = BeautifulSoup(html, "lxml")
 table = bsObj.findAll("table", {"class": "wikitable"})[0]
 rows = table.findAll("tr") #Each table row 
-csvFile = open("editors.csv", 'wt', newline='')
+csvFile = open("drug_shortage.csv", 'wt', newline='')
 writer = csv.writer(csvFile)
 try:
     for row in rows:
